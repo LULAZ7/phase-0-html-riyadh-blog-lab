@@ -12,7 +12,7 @@ IMAGE 1 FILE
 
 IMAGE 1 ALT TEXT
 
-`Modern Transit`
+`Where A Traditional Past Meets A Modern Future.`
 
 SMALLER SUB HEAD
 
